@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a data journalist currently working at La Vanguardia.
+You can reach me at [arago_la](https://twitter.com/arago_la)
 
 <!--
 **laurarago/laurarago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
